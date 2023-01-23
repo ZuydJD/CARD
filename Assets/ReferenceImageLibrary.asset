@@ -18,12 +18,62 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5063424971636178195
-      m_GuidHigh: 3344668902234038708
+      m_GuidLow: 5021740181005346443
+      m_GuidHigh: 12597756968382921863
     m_SerializedTextureGuid:
       m_GuidLow: 8395939290574793392
       m_GuidHigh: 6352469885104849627
-    m_Size: {x: 0.08188046, y: 0.120000005}
+    m_Size: {x: 0.08188046, y: 0.12}
     m_SpecifySize: 1
-    m_Name: Chris
+    m_Name: ExpertInterviewGrounding_BlindSide
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5709386842670007375
+      m_GuidHigh: 11009409271561502394
+    m_SerializedTextureGuid:
+      m_GuidLow: 12035000464838022674
+      m_GuidHigh: 11835974137552298905
+    m_Size: {x: 0.08189516, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: ExpertInterview_OpenSide
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5522409631294070198
+      m_GuidHigh: 12621898943242692495
+    m_SerializedTextureGuid:
+      m_GuidLow: 9305607767965779329
+      m_GuidHigh: 3263595580749118265
+    m_Size: {x: 0.08189516, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: RapidReview_BlindSide
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5313935193169469566
+      m_GuidHigh: 12274792223573491636
+    m_SerializedTextureGuid:
+      m_GuidLow: 6139700671598034651
+      m_GuidHigh: 4568768834608541257
+    m_Size: {x: 0.08189516, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: RapidReview_OpenSide
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5543660279588004812
+      m_GuidHigh: 7825689665590396811
+    m_SerializedTextureGuid:
+      m_GuidLow: 7153030470873229509
+      m_GuidHigh: 2548008582717140264
+    m_Size: {x: 0.08189516, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: StakeholderInterviewOpenSide
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5323352680540817248
+      m_GuidHigh: 2278409060229656196
+    m_SerializedTextureGuid:
+      m_GuidLow: 3275491828503672588
+      m_GuidHigh: 11826193455004743179
+    m_Size: {x: 0.08189516, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: StakeholderReviewBlindSide
     m_Texture: {fileID: 0}

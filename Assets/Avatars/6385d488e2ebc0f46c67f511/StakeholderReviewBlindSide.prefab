@@ -10,7 +10,7 @@ PrefabInstance:
     - target: {fileID: 285650208231881804, guid: 01da551612507044797527e38ac6a2a9,
         type: 3}
       propertyPath: m_Name
-      value: ExpertInterviewGrounding_OpenSide
+      value: StakeholderReviewBlindSide
       objectReference: {fileID: 0}
     - target: {fileID: 5696023090077440181, guid: 01da551612507044797527e38ac6a2a9,
         type: 3}
@@ -87,5 +87,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b1d2b6b8e9cc0a4ba9ea32b5cf5a537, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inputText: Test Test
+  inputText: Zes
   isTalking: 0

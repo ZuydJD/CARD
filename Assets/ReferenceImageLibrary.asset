@@ -77,3 +77,23 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: StakeholderReviewBlindSide
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5240801711986644998
+      m_GuidHigh: 9557241035387357080
+    m_SerializedTextureGuid:
+      m_GuidLow: 3428454832664391885
+      m_GuidHigh: 10120478985976060281
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: bridge-card-red-LET8-01
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4836820522249869146
+      m_GuidHigh: 16078046754359579275
+    m_SerializedTextureGuid:
+      m_GuidLow: 0
+      m_GuidHigh: 0
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: 
+    m_Texture: {fileID: 0}

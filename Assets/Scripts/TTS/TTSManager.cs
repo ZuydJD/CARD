@@ -12,7 +12,7 @@ public class TTSManager : Singleton<TTSManager>
     public override void Awake()
     {
         base.Awake();
-        config = SpeechConfig.FromSubscription("8156745855a94d0294fe9da21bf5ba9d", "westeurope");
+        config = SpeechConfig.FromSubscription("9da9f71a9bcc4709ac5b201324c2024a", "westeurope");
 
         config.SpeechSynthesisVoiceName = "nl-NL-MaartenNeural";
         synthesizer = new SpeechSynthesizer(config);

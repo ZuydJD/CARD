@@ -83,17 +83,37 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 3428454832664391885
       m_GuidHigh: 10120478985976060281
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
+    m_Size: {x: 0.06, y: 0.089999996}
+    m_SpecifySize: 1
     m_Name: bridge-card-red-LET8-01
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 4836820522249869146
-      m_GuidHigh: 16078046754359579275
+      m_GuidLow: 5711275685676531426
+      m_GuidHigh: 18159158914675633849
     m_SerializedTextureGuid:
-      m_GuidLow: 0
-      m_GuidHigh: 0
+      m_GuidLow: 10643282712259180385
+      m_GuidHigh: 897690096281791097
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: 
+    m_Name: bridge-card-purple-back-01
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4808401414804801121
+      m_GuidHigh: 11056944415630307235
+    m_SerializedTextureGuid:
+      m_GuidLow: 17749981405728102162
+      m_GuidHigh: 7069235937224034363
+    m_Size: {x: 0.09, y: 0.11647059}
+    m_SpecifySize: 0
+    m_Name: Scenario Fiets gestolen-1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5451003382065010890
+      m_GuidHigh: 14687425008823937691
+    m_SerializedTextureGuid:
+      m_GuidLow: 15646753576493447404
+      m_GuidHigh: 6855245685044451353
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Scenario ID vernieuwen-1
     m_Texture: {fileID: 0}

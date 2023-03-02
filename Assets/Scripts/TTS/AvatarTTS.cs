@@ -5,7 +5,8 @@ using UnityEngine.Events;
 
 public class AvatarTTS : MonoBehaviour
 {
-    public string inputText;
+
+    [TextArea(15, 20)] public string inputText;
     public static UnityEvent OnStartTalking;
     public static UnityEvent OnStopTalking;
 
